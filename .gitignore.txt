@@ -1,0 +1,15 @@
+# Ficheros generados Java
+
+*.class
+
+*.jar
+
+# Ficheros OSX
+
+.DS_Store
+
+# Carpetas que contienen ficheros generados
+
+bin/
+
+out/
