@@ -13,7 +13,7 @@ Python 2.6 (opcionalmente Python 2.7, para Plone 4.2 y superior).
 
 ***Para mas info:*** https://github.com/rramosl04/raulramoslorenzo/wiki/Ejecutar-GitHub
 
-***Si se quiere instalar el programa puede consultar el siguiente enlace: ***
+***Si se quiere instalar el programa puede consultar el siguiente enlace:***
 
 https://github.com/rramosl04/raulramoslorenzo/wiki/Instalaci%C3%B3n-GitHub
 
